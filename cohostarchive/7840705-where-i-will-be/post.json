@@ -1,0 +1,32 @@
+{
+    "postId": 7840705,
+    "headline": "Where I will be",
+    "publishedAt": "2024-09-26T11:23:04.945Z",
+    "state": 1,
+    "cws": [],
+    "tags": [],
+    "blocks": [
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "I've seen a lot of you making blogs and stuff, and while I like a lot the idea of setting up a rss feed before cohost shut down, I don't want to use a third party service for it.\nDon't get me wrong, is awesome seeing all of you quickly finding a new place that is easy and convenient. But I've been wanting to make a website for myself in ages, and this is a great opportunity for me to finally create one."
+            }
+        },
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "It ***will*** take some time to finally make the website I've been idealizing of. But while nothing is ready, I invite you to favorite (or save somewhere) my [neocities](https://nekoraita.neocities.org/) and check it in the future :eggbug:"
+            }
+        },
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "\nAlternatively, you can follow me on [bluesky](https://bsky.app/profile/nekoraita.bsky.social). I have no idea if I'm actually going to post there, but I'll anounce when my website is finally done."
+            }
+        }
+    ],
+    "pinned": true,
+    "commentsLocked": false,
+    "sharesLocked": false,
+    "singlePostPageUrl": "https://cohost.org/NekoRaita/post/7840705-where-i-will-be"
+}
