@@ -1,0 +1,36 @@
+{
+    "postId": 2039077,
+    "headline": "Cult of the Lamb Fanart",
+    "publishedAt": "2023-07-14T02:52:14.656Z",
+    "state": 1,
+    "cws": [],
+    "tags": [
+        "art",
+        "digital art",
+        "fanart",
+        "cult of the lamb",
+        "animation",
+        "2d animation",
+        "css",
+        "css animation",
+        "The Cohost Global Feed"
+    ],
+    "blocks": [
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "<div style=\"margin: 0; width: 100%; height: 100%\">\n<img style=\"width: 120%; position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; z-index: 2; margin: 0;  background-image: radial-gradient(circle, #cb2831, transparent 70%);\" src=\"https://i.imgur.com/9oo0dgI.gif\">"
+            }
+        },
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "<img style=\"animation: 4s linear infinite reverse spin; margin: 0\" src=\"https://i.imgur.com/un2SHSo.png\">\n</div>"
+            }
+        }
+    ],
+    "pinned": false,
+    "commentsLocked": false,
+    "sharesLocked": false,
+    "singlePostPageUrl": "https://cohost.org/NekoRaita/post/2039077-cult-of-the-lamb-fan"
+}
