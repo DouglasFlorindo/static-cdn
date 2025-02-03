@@ -1,0 +1,26 @@
+{
+    "postId": 7119491,
+    "headline": "",
+    "publishedAt": "2024-08-01T05:13:49.248Z",
+    "state": 1,
+    "cws": [],
+    "tags": [
+        "art",
+        "artfight",
+        "artfight 2024",
+        "digital art",
+        "team stardust"
+    ],
+    "blocks": [
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "\n<div id=\"main\" style=\"margin:0;padding:0;box-sizing:border-box\"><!--ps=2-->\n  \n \n \n  <div id=\"image\" style=\"margin:0;padding:0;box-sizing:border-box;border:2px solid #dad4ff;border-radius:15px 15px 0 0\">\n    <a href=\"https://i.imgur.com/PaLbgbC.jpeg\" target=\"_blank\" style=\"margin:0;padding:0;box-sizing:border-box\"><img src=\"https://i.imgur.com/PaLbgbC.jpeg\" style=\"margin:0;padding:0;box-sizing:border-box;border-radius:15px\"></a>\n  </div>\n  <div id=\"infos\" style=\"margin:0;padding:0;box-sizing:border-box;width:100%;background:red;position:relative;top:-1rem;display:flex;flex-direction:column;align-items:center;background-image:url(https://i.imgur.com/DXeLQ0R.png);background-color:black;background-attachment:fixed;border:2px solid #dad4ff;border-top:0;border-radius:15px;box-shadow:0-15px 10px -10px black\">\n    <h1 style=\"padding:0;box-sizing:border-box;color:#dad4ff;margin:1rem 1rem 0 1rem;text-shadow:0 0 5px\">Rubber Ducking</h1>\n    <h2 id=\"sub\" style=\"padding:0;box-sizing:border-box;color:#6e65ff;text-shadow:0 0 3px;margin:0 1rem 1rem 1rem\">ATK 24-03</h2>\n    <p style=\"color:#dad4ff;margin:0;padding:0;box-sizing:border-box\"><a href=\"https://artfight.net/character/3602096.gene-west\" target=\"_blank\" style=\"margin:0;padding:0;box-sizing:border-box\">Gene</a> &amp; <a href=\"https://artfight.net/character/3573695.byron-jiang\" target=\"_blank\" style=\"margin:0;padding:0;box-sizing:border-box\">Byron</a> by <a target=\"_blank\" href=\"https://artfight.net/~PseudoPaint\" style=\"margin:0;padding:0;box-sizing:border-box\">PseudoPaint</a></p>\n  <a id=\"credits\" href=\"https://pastebin.com/ug3WLZkV\" targe=\"_blank\" style=\"padding:0;box-sizing:border-box;color:#6e65ff;margin:1rem\">background image by ArtFight Staff</a>\n    <div style=\"margin:0;padding:0;box-sizing:border-box\"></div>\n  </div>\n  \n</div>\n"
+            }
+        }
+    ],
+    "pinned": false,
+    "commentsLocked": false,
+    "sharesLocked": false,
+    "singlePostPageUrl": "https://cohost.org/NekoRaita/post/7119491-div-id-main-styl"
+}
