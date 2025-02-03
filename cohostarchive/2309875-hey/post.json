@@ -1,0 +1,81 @@
+{
+    "postId": 2309875,
+    "headline": "Hey! :]",
+    "publishedAt": "2023-08-01T11:14:09.558Z",
+    "shareOfPost": "https://cohost.org/MoidDoesArt/post/2306630-alright-let-s-try-th",
+    "state": 1,
+    "cws": [],
+    "tags": [
+        "Cohost Art Share",
+        "artists on cohost",
+        "art",
+        "digital art",
+        "The Cohost Global Feed"
+    ],
+    "blocks": [
+        {
+            "type": "attachment",
+            "attachment": {
+                "kind": "image",
+                "fileURL": "https://staging.cohostcdn.org/attachment/6b91542e-a689-4d01-bf78-a35d4a8dbbd0/nMuIIhb.jpg",
+                "previewURL": "https://staging.cohostcdn.org/attachment/6b91542e-a689-4d01-bf78-a35d4a8dbbd0/nMuIIhb.jpg",
+                "attachmentId": "6b91542e-a689-4d01-bf78-a35d4a8dbbd0",
+                "altText": "The character \"Beowulf\" from the fighting game \"Skullgirls\" in the middle of a crowded wrestling ring with a grin on his face.",
+                "width": 3000,
+                "height": 3000
+            }
+        },
+        {
+            "type": "attachment",
+            "attachment": {
+                "kind": "image",
+                "fileURL": "https://staging.cohostcdn.org/attachment/b7b2a06c-d8c4-4e8c-8457-d5db6753e2a6/mauroGato-30-04-23.png",
+                "previewURL": "https://staging.cohostcdn.org/attachment/b7b2a06c-d8c4-4e8c-8457-d5db6753e2a6/mauroGato-30-04-23.png",
+                "attachmentId": "b7b2a06c-d8c4-4e8c-8457-d5db6753e2a6",
+                "altText": "\"Mauro\", an original character, flexing to the camera with a cat standing on his pecs. ",
+                "width": 1680,
+                "height": 3000
+            }
+        },
+        {
+            "type": "attachment",
+            "attachment": {
+                "kind": "image",
+                "fileURL": "https://staging.cohostcdn.org/attachment/4cf0380f-de53-4bc5-a4cc-440c6d78de4c/rainynight-21-08-22.gif",
+                "previewURL": "https://proxy-staging.cohostcdn.org/wHPErk3MKzf6bqwvkQ_MEQPSsS_nPDuX_98Sf_r2LhQ/f:png/czM6Ly9jb2hvc3QtcHJvZC9hdHRhY2htZW50LzRjZjAzODBmLWRlNTMtNGJjNS1hNGNjLTQ0MGM2ZDc4ZGU0Yy9yYWlueW5pZ2h0LTIxLTA4LTIyLmdpZg",
+                "attachmentId": "4cf0380f-de53-4bc5-a4cc-440c6d78de4c",
+                "altText": "A dark kitchen with a cat sleeping in the balcony while there's a rainy city visible through the window. ",
+                "width": 1784,
+                "height": 1016
+            }
+        },
+        {
+            "type": "attachment",
+            "attachment": {
+                "kind": "image",
+                "fileURL": "https://staging.cohostcdn.org/attachment/f9356bec-577b-4e85-a908-c964039c8df9/sauloPortrait-27-06-23.png",
+                "previewURL": "https://staging.cohostcdn.org/attachment/f9356bec-577b-4e85-a908-c964039c8df9/sauloPortrait-27-06-23.png",
+                "attachmentId": "f9356bec-577b-4e85-a908-c964039c8df9",
+                "altText": "Portrait of \"Saulo\", an original character.",
+                "width": 2000,
+                "height": 2000
+            }
+        },
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "I'm a self-taught beginner digital artist who likes drawing men doing gay stuff (even though I haven't post some of my old pieces...). These days I have been studying and practicing anatomy and digital painting.\nI also like to animate sometimes and make cool css stuff :D"
+            }
+        },
+        {
+            "type": "markdown",
+            "markdown": {
+                "content": "(Also thanks for the opportunity! Your work is an absolute banger)"
+            }
+        }
+    ],
+    "pinned": false,
+    "commentsLocked": false,
+    "sharesLocked": false,
+    "singlePostPageUrl": "https://cohost.org/NekoRaita/post/2309875-hey"
+}
